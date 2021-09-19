@@ -1,0 +1,93 @@
+body {background-color: rgb(255, 248, 248);}
+div {
+    border-radius:  2%;
+    font-family: 'Gluten', cursive;
+}
+.top {
+    width: 100%;
+    height: 50px;
+    background-color: rgb(34, 172, 218);
+}
+    .topleft {
+        margin-left: 30px;
+        float: left;
+        width: 10%;
+        font-size: 30px;
+        font-weight: bold;
+        line-height: 50px;
+
+    }
+    .topright {
+        float: right;
+        padding-right: 5px;
+        width: 10%;
+        line-height: 10px;
+        
+    }
+    .ite {
+        line-height: 50px;
+        font-size: 15px;
+        text-decoration: none;
+        margin-right: 5px;
+    }
+.mid {
+    margin-top: 10px;
+    width: 100%;
+    height: 400px;
+}
+    .trai {
+        float: left;
+        margin-left: 1%;
+        width: 20%;
+        height: 400px;
+    }
+        .trai button {
+            background-color: ivory;
+            padding: 7px;
+            width: 200px;
+            text-align: left;
+            margin-left: 50px;
+            margin-top: 10px;
+            border-radius: 5px;
+        }
+    .giua {
+        float: left;
+        margin-left: 10%;
+        width: 40%;
+        height: 400px;
+    }
+        table,tr,td {
+            padding: 5px;
+            margin-top: 50px;
+        }
+        .giua h1,p {
+            margin-left: 10px;
+        }
+            tr td {
+            text-align: right;
+            width: 150px;
+        }
+    .phai {
+        background-image: url(https://kenh14cdn.com/5a23be8c26/2015/10/31/12092730_10208089483538010_1308033671_n-d8982.jpg);
+        background-size: 100% auto ;
+        background-repeat: no-repeat;
+        float: left;
+        background-color: rgb(128, 240, 147);
+        width: 20%;
+        height: 370px;
+        margin-top: 10px;
+        margin-left: 2%;
+    }
+ 
+.bot {
+        margin-top: 10px;
+        width: 100%;
+        height: 60px;
+        background-color: rgb(237, 241, 210);
+    }
+        .bot table {width: 100%;height: 50px;}
+        .bot td {
+            text-align: center;
+            width: 500px;
+            margin-top: 5px;
+        }
